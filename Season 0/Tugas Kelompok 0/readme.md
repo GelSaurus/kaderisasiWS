@@ -10,7 +10,7 @@
 * Pastikan seluruh cakru dala kelompok anda bisa Nyolder
 * Cari beberapa harga komponen dasar (lihat template)
 * Buat rangkaian led paralel tiga buah sesuai schematic (terlampir)
-[schematic](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Tugas%20Kelompok%200/schematic.png)
+![schematic](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Tugas%20Kelompok%200/schematic.png)
 * Dibuat pada dot matrix dengan ukuran maksimal 8 cm X 8 cm (tanpa jumper)
 * Lampirkan laporan dan dokumentasi dengan template [download di sini](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Tugas%20Kelompok%200/Tugas%20Kelompok%200.docx)
 
