@@ -10,8 +10,8 @@
 * Pastikan seluruh cakru dala kelompok anda bisa Nyolder
 * Cari beberapa harga komponen dasar (lihat template)
 * Buat rangkaian led paralel tiga buah sesuai schematic (terlampir)
-![skematik]()
-* Lampirkan laporan dan dokumentasi dengan template [ini]()
+[schematic](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Tugas%20Kelompok%200/schematic.png)
+* Lampirkan laporan dan dokumentasi dengan template [download di sini](https://github.com/WShme2017/kaderisasiWS/blob/master/Season%200/Tugas%20Kelompok%200/Tugas%20Kelompok%200.docx)
 
 ## Pengumpulan
 * Buat folder "Kelompok ?" di dalam folder kaderisasiWS/Season 0/Tugas Kelompok 0/
