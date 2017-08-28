@@ -18,6 +18,11 @@
 * Upload dokumen sesuai template dalam bentuk .docx dan .pdf
 * Lakukan pengumpulan tugas sesuai prosedur (fork, pull, dst)
 * Apabila telah anda upload, laporkan ke CP di bawah
+* Deadline pengumpulan 04 September 2017 pukul 21:00
+
 
 CP : William Chandra (LINE : william_chans)
 
+<br> <br>
+
+#WorkshopJayadanKaya
